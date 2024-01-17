@@ -62,7 +62,7 @@ const Footer = () => {
             height={20}
             className='rounded-full m-0'
           />
-          <p>Copyright 2023 All rights reserved EmahWD.</p>
+          <p>Copyright 2023 All rights reserved Bhigital Digital Agency</p>
         </div>
         <p className='font-montserrat cursor-pointer'>Terms & Conditions</p>
       </div>
